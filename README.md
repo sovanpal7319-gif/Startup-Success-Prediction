@@ -28,7 +28,7 @@ Startup-Success-Prediction/
 │
 ├── Startup_Success_Prediction.ipynb # Complete project (EDA + ML + Evaluation)
 ├── data/
-│ └── startup_data.csv # Dataset
+│ └── startup data.csv # Dataset
 ├── results/
 │ └── confusion_matrix.png # Model evaluation visuals 
 └── README.md
