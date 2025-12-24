@@ -101,7 +101,7 @@ jupyter notebook Startup_Success_Prediction.ipynb
 3️⃣ Run all cells sequentially to reproduce the results.
 
 
-📈 Key Results
+## 📈 Key Results
 
 Baseline models showed limited performance due to categorical dominance
 
@@ -111,7 +111,7 @@ CatBoost achieved the highest and most stable F1-score
 
 Confusion matrix confirmed better minority-class prediction
 
-🔮 Future Work
+## 🔮 Future Work
 
 Model explainability using SHAP
 
